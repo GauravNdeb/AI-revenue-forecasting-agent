@@ -6,3 +6,4 @@ scikit-learn
 openai
 langchain
 langchain-openai
+python-dotenv
