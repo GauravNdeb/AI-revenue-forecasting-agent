@@ -1,0 +1,151 @@
+deal_id,customer_name,sales_rep,amount_usd,stage,created_date,expected_close_date,last_activity_date,days_in_stage,num_emails,num_calls,num_meetings,stakeholder_count,economic_buyer_engaged,proposal_sent,close_date_changes,customer_response_days,engagement_trend,notes,historical_stage_win_rate,weighted_revenue_usd,risk_score,risk_level
+D001,Harbor Insurance 1,Arjun,125000,Negotiation,2026-06-15,2026-10-26,2026-09-07,32,2,2,1,2,False,True,1,8,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.75,93750.0,40,Medium
+D002,Northstar Analytics 2,Rohan,40000,Demo,2026-06-06,2026-10-30,2026-09-01,43,3,2,2,2,True,False,2,5,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.3,12000.0,55,Medium
+D003,Evergreen Energy 3,Meera,200000,Proposal,2026-07-25,2026-10-01,2026-09-05,4,7,5,5,4,True,True,1,4,stable,Customer is engaged and reviewing next steps.,0.55,110000.0,0,Low
+D004,Pioneer Finance 4,Diya,25000,Discovery,2026-05-02,2026-09-19,2026-08-25,23,1,0,1,2,True,False,1,13,declining,Engagement has dropped sharply compared with earlier conversations.,0.15,3750.0,60,High
+D005,Quantum Security 5,Rohan,50000,Proposal,2026-07-16,2026-10-06,2026-08-08,41,3,1,0,2,True,True,3,18,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.55,27500.0,80,High
+D006,Nova Telecom 6,Kabir,75000,Demo,2026-07-14,2026-10-09,2026-09-06,22,11,1,1,4,True,False,1,4,stable,Champion is active and buyer is engaged.,0.3,22500.0,0,Low
+D007,Harbor Insurance 7,Arjun,200000,Demo,2026-06-05,2026-09-11,2026-09-07,8,7,4,1,3,True,False,0,4,stable,Champion is active and buyer is engaged.,0.3,60000.0,0,Low
+D008,Quantum Security 8,Aarav,125000,Proposal,2026-08-04,2026-11-14,2026-09-07,18,6,3,1,4,True,True,0,2,stable,Strong meeting participation; decision process is clear.,0.55,68750.0,0,Low
+D009,Pioneer Finance 9,Meera,50000,Discovery,2026-04-15,2026-10-04,2026-09-09,11,4,3,4,3,True,False,1,4,stable,Champion is active and buyer is engaged.,0.15,7500.0,0,Low
+D010,Vertex Retail 10,Meera,200000,Discovery,2026-06-30,2026-11-10,2026-09-10,17,9,3,4,4,True,False,0,4,stable,Champion is active and buyer is engaged.,0.15,30000.0,0,Low
+D011,Apex Mobility 11,Kabir,150000,Demo,2026-07-24,2026-09-29,2026-09-08,18,9,2,4,4,True,False,0,2,stable,Customer is engaged and reviewing next steps.,0.3,45000.0,0,Low
+D012,Maple Commerce 12,Diya,250000,Proposal,2026-06-12,2026-10-11,2026-09-03,34,2,2,3,3,True,True,2,5,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.55,137500.0,55,Medium
+D013,Summit Logistics 13,Anaya,100000,Discovery,2026-05-05,2026-10-06,2026-08-21,37,1,1,0,1,False,False,3,16,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.15,15000.0,100,High
+D014,Nova Telecom 14,Aarav,25000,Proposal,2026-05-15,2026-09-16,2026-09-05,13,3,1,4,3,True,True,0,2,stable,Champion is active and buyer is engaged.,0.55,13750.0,0,Low
+D015,Evergreen Energy 15,Rohan,200000,Proposal,2026-07-24,2026-10-12,2026-08-26,41,3,1,2,2,True,True,2,13,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.55,110000.0,80,High
+D016,Atlas Manufacturing 16,Arjun,50000,Discovery,2026-06-08,2026-09-29,2026-09-07,20,8,3,1,3,True,False,1,2,stable,Customer requested a timeline for final decision.,0.15,7500.0,0,Low
+D017,Nova Telecom 17,Aarav,50000,Demo,2026-08-14,2026-10-22,2026-09-07,34,2,1,3,2,False,False,0,3,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.3,15000.0,40,Medium
+D018,Atlas Manufacturing 18,Kabir,50000,Proposal,2026-05-04,2026-10-14,2026-08-24,29,1,1,0,2,True,True,0,7,declining,Engagement has dropped sharply compared with earlier conversations.,0.55,27500.0,40,Medium
+D019,Vertex Retail 19,Diya,100000,Negotiation,2026-04-22,2026-11-10,2026-09-09,26,5,4,4,3,True,True,1,2,stable,Customer requested a timeline for final decision.,0.75,75000.0,0,Low
+D020,Northstar Analytics 20,Rohan,50000,Discovery,2026-06-15,2026-10-05,2026-09-04,41,5,2,1,3,False,False,2,9,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.15,7500.0,75,High
+D021,BluePeak Systems 21,Rohan,75000,Proposal,2026-06-24,2026-09-14,2026-09-05,22,5,1,2,4,True,True,1,1,stable,Customer is engaged and reviewing next steps.,0.55,41250.0,0,Low
+D022,Evergreen Energy 22,Meera,150000,Discovery,2026-07-23,2026-10-10,2026-08-12,45,0,0,0,1,False,False,1,20,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.15,22500.0,80,High
+D023,Atlas Manufacturing 23,Meera,40000,Discovery,2026-07-23,2026-10-29,2026-09-09,3,12,1,4,2,True,False,0,4,stable,Champion is active and buyer is engaged.,0.15,6000.0,0,Low
+D024,BluePeak Systems 24,Meera,40000,Negotiation,2026-08-14,2026-09-27,2026-08-24,37,1,0,0,2,True,True,2,15,declining,Engagement has dropped sharply compared with earlier conversations.,0.75,30000.0,80,High
+D025,Nova Telecom 25,Diya,50000,Proposal,2026-04-01,2026-09-13,2026-09-04,27,3,3,3,3,True,True,0,3,stable,Customer requested a timeline for final decision.,0.55,27500.0,0,Low
+D026,BluePeak Systems 26,Kabir,25000,Demo,2026-03-30,2026-10-22,2026-08-24,51,3,0,2,1,False,False,3,8,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.3,7500.0,100,High
+D027,Orion Foods 27,Ishita,200000,Negotiation,2026-06-11,2026-09-14,2026-09-09,22,12,5,4,4,True,True,0,2,stable,Strong meeting participation; decision process is clear.,0.75,150000.0,0,Low
+D028,BluePeak Systems 28,Ishita,75000,Proposal,2026-03-31,2026-11-12,2026-09-04,16,5,2,2,4,True,True,1,4,stable,Customer requested a timeline for final decision.,0.55,41250.0,0,Low
+D029,Vertex Retail 29,Kabir,25000,Proposal,2026-06-27,2026-09-17,2026-09-06,26,8,1,2,2,False,True,1,7,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.55,13750.0,20,Low
+D030,Quantum Security 30,Meera,100000,Discovery,2026-08-01,2026-10-23,2026-09-06,4,4,5,1,2,True,False,0,3,stable,Champion is active and buyer is engaged.,0.15,15000.0,0,Low
+D031,Apex Mobility 31,Meera,250000,Demo,2026-06-05,2026-10-16,2026-08-28,44,1,1,2,1,True,False,2,7,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.3,75000.0,55,Medium
+D032,Quantum Security 32,Rohan,25000,Discovery,2026-06-24,2026-09-12,2026-09-04,4,11,1,1,2,True,False,0,4,stable,Champion is active and buyer is engaged.,0.15,3750.0,0,Low
+D033,Atlas Manufacturing 33,Kabir,50000,Negotiation,2026-03-28,2026-11-02,2026-09-02,34,6,2,3,2,False,True,1,3,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.75,37500.0,40,Medium
+D034,Pioneer Finance 34,Arjun,100000,Negotiation,2026-04-19,2026-09-17,2026-09-07,20,5,2,4,2,True,True,0,2,stable,Strong meeting participation; decision process is clear.,0.75,75000.0,0,Low
+D035,Maple Commerce 35,Rohan,50000,Demo,2026-06-05,2026-10-22,2026-09-08,12,4,4,2,2,True,False,0,4,stable,Customer requested a timeline for final decision.,0.3,15000.0,0,Low
+D036,BluePeak Systems 36,Kabir,100000,Demo,2026-06-12,2026-10-20,2026-09-03,26,3,3,3,2,False,False,1,8,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.3,30000.0,20,Low
+D037,BluePeak Systems 37,Arjun,25000,Proposal,2026-07-19,2026-10-16,2026-08-27,38,0,1,1,2,True,True,1,13,declining,Engagement has dropped sharply compared with earlier conversations.,0.55,13750.0,60,High
+D038,BluePeak Systems 38,Kabir,250000,Discovery,2026-03-31,2026-11-11,2026-08-30,21,5,3,3,2,False,False,1,9,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.15,37500.0,20,Low
+D039,Harbor Insurance 39,Ishita,25000,Proposal,2026-08-04,2026-10-26,2026-08-24,35,2,0,0,2,False,True,3,14,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.55,13750.0,100,High
+D040,Harbor Insurance 40,Diya,200000,Proposal,2026-07-14,2026-11-01,2026-08-30,47,5,0,1,3,False,True,2,11,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.55,110000.0,75,High
+D041,BluePeak Systems 41,Ishita,150000,Demo,2026-05-02,2026-09-16,2026-08-22,31,2,0,0,2,True,False,0,15,declining,Engagement has dropped sharply compared with earlier conversations.,0.3,45000.0,60,High
+D042,Apex Mobility 42,Aarav,150000,Demo,2026-06-23,2026-10-21,2026-08-31,30,2,0,1,2,True,False,0,9,declining,Engagement has dropped sharply compared with earlier conversations.,0.3,45000.0,35,Medium
+D043,Atlas Manufacturing 43,Aarav,150000,Negotiation,2026-06-17,2026-10-24,2026-09-06,35,2,1,3,1,False,True,1,3,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.75,112500.0,40,Medium
+D044,Atlas Manufacturing 44,Aarav,150000,Demo,2026-04-20,2026-10-30,2026-09-04,13,7,1,2,2,True,False,0,4,stable,Champion is active and buyer is engaged.,0.3,45000.0,0,Low
+D045,Silverline Media 45,Aarav,25000,Negotiation,2026-04-12,2026-10-21,2026-09-05,23,4,4,1,4,True,True,0,3,stable,Customer is engaged and reviewing next steps.,0.75,18750.0,0,Low
+D046,Maple Commerce 46,Aarav,200000,Negotiation,2026-08-13,2026-10-21,2026-09-07,6,10,5,5,2,True,True,0,4,stable,Strong meeting participation; decision process is clear.,0.75,150000.0,0,Low
+D047,Maple Commerce 47,Aarav,40000,Discovery,2026-08-10,2026-11-12,2026-08-07,44,0,0,2,2,True,False,3,18,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.15,6000.0,80,High
+D048,Silverline Media 48,Aarav,150000,Proposal,2026-04-21,2026-10-14,2026-09-05,14,4,1,2,4,True,True,0,3,stable,Champion is active and buyer is engaged.,0.55,82500.0,0,Low
+D049,Northstar Analytics 49,Aarav,200000,Discovery,2026-04-22,2026-10-11,2026-09-05,3,3,4,2,3,True,False,1,3,stable,Champion is active and buyer is engaged.,0.15,30000.0,0,Low
+D050,Atlas Manufacturing 50,Rohan,125000,Discovery,2026-07-17,2026-10-08,2026-08-22,23,1,0,0,2,False,False,0,11,declining,Engagement has dropped sharply compared with earlier conversations.,0.15,18750.0,80,High
+D051,Pioneer Finance 51,Ishita,200000,Proposal,2026-05-27,2026-10-21,2026-09-09,27,6,3,3,3,True,True,0,3,stable,Strong meeting participation; decision process is clear.,0.55,110000.0,0,Low
+D052,Silverline Media 52,Meera,100000,Discovery,2026-06-05,2026-09-27,2026-09-04,12,4,5,1,2,True,False,1,2,stable,Customer is engaged and reviewing next steps.,0.15,15000.0,0,Low
+D053,Summit Logistics 53,Meera,75000,Proposal,2026-05-17,2026-09-08,2026-09-09,13,5,5,5,3,True,True,0,2,stable,Customer requested a timeline for final decision.,0.55,41250.0,0,Low
+D054,Harbor Insurance 54,Kabir,40000,Proposal,2026-07-16,2026-09-23,2026-08-20,45,2,1,1,2,False,True,2,12,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.55,22000.0,100,High
+D055,Evergreen Energy 55,Anaya,100000,Demo,2026-06-02,2026-11-04,2026-09-06,25,11,4,3,3,True,False,1,1,stable,Customer requested a timeline for final decision.,0.3,30000.0,0,Low
+D056,Quantum Security 56,Aarav,100000,Negotiation,2026-07-13,2026-11-03,2026-09-05,26,2,1,2,1,False,True,0,9,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.75,75000.0,20,Low
+D057,Pioneer Finance 57,Kabir,125000,Demo,2026-06-30,2026-11-04,2026-09-05,10,10,5,1,2,True,False,0,4,stable,Champion is active and buyer is engaged.,0.3,37500.0,0,Low
+D058,Harbor Insurance 58,Anaya,50000,Discovery,2026-05-22,2026-09-27,2026-09-07,9,12,1,3,4,True,False,0,4,stable,Strong meeting participation; decision process is clear.,0.15,7500.0,0,Low
+D059,Quantum Security 59,Ishita,150000,Proposal,2026-06-22,2026-10-05,2026-08-20,31,0,1,2,2,True,True,3,10,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.55,82500.0,60,High
+D060,Pioneer Finance 60,Meera,250000,Proposal,2026-07-19,2026-09-22,2026-08-27,43,4,1,1,3,True,True,2,12,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.55,137500.0,80,High
+D061,Evergreen Energy 61,Aarav,100000,Discovery,2026-07-04,2026-10-23,2026-09-04,42,4,0,1,1,True,False,2,13,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.15,15000.0,55,Medium
+D062,Harbor Insurance 62,Arjun,25000,Demo,2026-04-18,2026-10-01,2026-08-10,41,1,1,1,2,True,False,3,17,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.3,7500.0,80,High
+D063,BluePeak Systems 63,Rohan,250000,Demo,2026-04-17,2026-10-17,2026-09-07,20,11,2,4,3,True,False,0,4,stable,Strong meeting participation; decision process is clear.,0.3,75000.0,0,Low
+D064,Northstar Analytics 64,Kabir,125000,Demo,2026-06-06,2026-09-18,2026-09-07,5,6,5,1,4,True,False,0,3,stable,Strong meeting participation; decision process is clear.,0.3,37500.0,0,Low
+D065,Evergreen Energy 65,Anaya,50000,Discovery,2026-08-14,2026-10-22,2026-08-29,31,2,0,2,2,True,False,2,7,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.15,7500.0,55,Medium
+D066,Pioneer Finance 66,Rohan,200000,Negotiation,2026-05-20,2026-10-30,2026-09-04,22,12,3,4,4,True,True,0,4,stable,Champion is active and buyer is engaged.,0.75,150000.0,0,Low
+D067,Quantum Security 67,Anaya,100000,Discovery,2026-05-03,2026-09-26,2026-09-06,13,9,3,5,4,True,False,0,4,stable,Customer is engaged and reviewing next steps.,0.15,15000.0,0,Low
+D068,Summit Logistics 68,Ishita,125000,Proposal,2026-06-28,2026-10-08,2026-09-08,4,10,5,3,3,True,True,1,4,stable,Customer requested a timeline for final decision.,0.55,68750.0,0,Low
+D069,Northstar Analytics 69,Kabir,25000,Demo,2026-04-24,2026-09-08,2026-09-09,15,11,2,3,4,True,False,0,4,stable,Customer is engaged and reviewing next steps.,0.3,7500.0,0,Low
+D070,Northstar Analytics 70,Ishita,75000,Discovery,2026-08-02,2026-10-02,2026-08-24,29,2,0,1,2,False,False,1,14,declining,Engagement has dropped sharply compared with earlier conversations.,0.15,11250.0,80,High
+D071,Maple Commerce 71,Arjun,50000,Proposal,2026-07-15,2026-10-24,2026-09-04,27,5,4,3,3,True,True,0,4,stable,Strong meeting participation; decision process is clear.,0.55,27500.0,0,Low
+D072,Summit Logistics 72,Arjun,150000,Demo,2026-06-18,2026-09-14,2026-09-05,20,12,2,5,4,True,False,0,2,stable,Strong meeting participation; decision process is clear.,0.3,45000.0,0,Low
+D073,Pioneer Finance 73,Arjun,200000,Discovery,2026-05-11,2026-10-30,2026-09-10,11,7,5,4,3,True,False,1,3,stable,Strong meeting participation; decision process is clear.,0.15,30000.0,0,Low
+D074,BluePeak Systems 74,Kabir,40000,Proposal,2026-07-21,2026-09-15,2026-08-21,36,0,0,1,1,True,True,2,9,declining,Engagement has dropped sharply compared with earlier conversations.,0.55,22000.0,80,High
+D075,Apex Mobility 75,Rohan,75000,Discovery,2026-07-19,2026-11-12,2026-09-08,11,9,5,5,3,True,False,0,2,stable,Customer requested a timeline for final decision.,0.15,11250.0,0,Low
+D076,Silverline Media 76,Anaya,250000,Proposal,2026-07-07,2026-10-17,2026-09-01,34,2,2,2,3,True,True,3,11,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.55,137500.0,55,Medium
+D077,Atlas Manufacturing 77,Rohan,200000,Demo,2026-07-14,2026-10-31,2026-09-09,6,11,1,2,2,True,False,0,3,stable,Strong meeting participation; decision process is clear.,0.3,60000.0,0,Low
+D078,Summit Logistics 78,Aarav,200000,Demo,2026-06-09,2026-10-16,2026-08-30,40,5,2,1,3,False,False,2,6,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.3,60000.0,75,High
+D079,Northstar Analytics 79,Diya,50000,Proposal,2026-04-01,2026-09-08,2026-09-04,14,3,5,1,4,True,True,1,1,stable,Strong meeting participation; decision process is clear.,0.55,27500.0,0,Low
+D080,Maple Commerce 80,Anaya,250000,Discovery,2026-06-13,2026-09-10,2026-09-05,8,3,5,1,2,True,False,0,2,stable,Customer requested a timeline for final decision.,0.15,37500.0,0,Low
+D081,BluePeak Systems 81,Arjun,250000,Discovery,2026-07-05,2026-09-06,2026-09-09,10,3,2,1,2,True,False,0,4,stable,Customer is engaged and reviewing next steps.,0.15,37500.0,0,Low
+D082,Maple Commerce 82,Meera,25000,Proposal,2026-06-30,2026-09-22,2026-09-07,23,11,3,3,2,True,True,0,2,stable,Champion is active and buyer is engaged.,0.55,13750.0,0,Low
+D083,Silverline Media 83,Aarav,75000,Proposal,2026-07-15,2026-09-16,2026-09-09,27,3,3,3,3,True,True,1,3,stable,Customer is engaged and reviewing next steps.,0.55,41250.0,0,Low
+D084,BluePeak Systems 84,Arjun,25000,Discovery,2026-04-06,2026-09-22,2026-09-04,6,3,1,5,2,True,False,1,3,stable,Strong meeting participation; decision process is clear.,0.15,3750.0,0,Low
+D085,Summit Logistics 85,Kabir,150000,Proposal,2026-04-16,2026-11-04,2026-09-09,25,9,3,3,2,True,True,1,4,stable,Customer requested a timeline for final decision.,0.55,82500.0,0,Low
+D086,Silverline Media 86,Kabir,125000,Negotiation,2026-06-13,2026-09-13,2026-08-08,54,1,1,0,2,True,True,2,18,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.75,93750.0,80,High
+D087,Nova Telecom 87,Rohan,40000,Demo,2026-05-17,2026-10-22,2026-09-08,22,10,2,1,3,True,False,0,3,stable,Customer is engaged and reviewing next steps.,0.3,12000.0,0,Low
+D088,Evergreen Energy 88,Aarav,150000,Proposal,2026-04-20,2026-10-26,2026-09-02,32,2,0,2,3,False,True,2,5,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.55,82500.0,75,High
+D089,Silverline Media 89,Diya,250000,Discovery,2026-04-05,2026-09-28,2026-09-05,34,3,0,2,2,False,False,3,8,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.15,37500.0,75,High
+D090,Cedar Health 90,Rohan,50000,Discovery,2026-06-14,2026-09-16,2026-09-06,9,12,5,4,2,True,False,0,1,stable,Champion is active and buyer is engaged.,0.15,7500.0,0,Low
+D091,Nova Telecom 91,Ishita,200000,Demo,2026-05-20,2026-10-29,2026-08-15,41,3,1,1,2,False,False,3,11,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.3,60000.0,100,High
+D092,Silverline Media 92,Meera,250000,Demo,2026-06-04,2026-11-07,2026-09-10,21,8,3,2,3,True,False,1,1,stable,Customer requested a timeline for final decision.,0.3,75000.0,0,Low
+D093,Maple Commerce 93,Anaya,100000,Proposal,2026-07-27,2026-10-12,2026-09-03,32,2,2,3,3,False,True,2,6,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.55,55000.0,75,High
+D094,Harbor Insurance 94,Ishita,125000,Negotiation,2026-06-24,2026-09-13,2026-09-10,21,10,3,4,4,True,True,1,3,stable,Strong meeting participation; decision process is clear.,0.75,93750.0,0,Low
+D095,Quantum Security 95,Anaya,200000,Negotiation,2026-04-24,2026-10-02,2026-09-10,8,10,3,3,2,True,True,0,4,stable,Customer requested a timeline for final decision.,0.75,150000.0,0,Low
+D096,Evergreen Energy 96,Meera,125000,Negotiation,2026-06-21,2026-11-10,2026-09-08,18,8,2,3,3,True,True,0,3,stable,Champion is active and buyer is engaged.,0.75,93750.0,0,Low
+D097,Nova Telecom 97,Diya,75000,Discovery,2026-06-24,2026-11-11,2026-09-05,5,4,2,2,4,True,False,0,2,stable,Customer is engaged and reviewing next steps.,0.15,11250.0,0,Low
+D098,BluePeak Systems 98,Aarav,100000,Discovery,2026-04-30,2026-10-02,2026-09-02,28,2,2,2,1,True,False,2,9,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.15,15000.0,55,Medium
+D099,Maple Commerce 99,Rohan,25000,Proposal,2026-03-31,2026-09-27,2026-08-13,43,0,0,2,1,True,True,1,17,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.55,13750.0,60,High
+D100,Quantum Security 100,Anaya,250000,Negotiation,2026-05-20,2026-10-27,2026-08-26,40,3,0,1,3,True,True,2,8,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.75,187500.0,80,High
+D101,Summit Logistics 101,Rohan,125000,Proposal,2026-06-03,2026-10-27,2026-09-09,14,4,5,1,3,True,True,0,3,stable,Champion is active and buyer is engaged.,0.55,68750.0,0,Low
+D102,Nova Telecom 102,Aarav,75000,Demo,2026-08-01,2026-11-07,2026-09-01,18,6,3,1,1,False,False,0,4,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.3,22500.0,20,Low
+D103,Atlas Manufacturing 103,Rohan,40000,Demo,2026-04-17,2026-11-04,2026-09-06,12,7,1,1,2,True,False,1,3,stable,Customer is engaged and reviewing next steps.,0.3,12000.0,0,Low
+D104,Summit Logistics 104,Arjun,100000,Demo,2026-06-02,2026-10-30,2026-09-08,8,4,1,2,4,True,False,0,4,stable,Customer is engaged and reviewing next steps.,0.3,30000.0,0,Low
+D105,Quantum Security 105,Ishita,100000,Proposal,2026-06-02,2026-10-09,2026-09-05,14,4,2,2,2,True,True,0,4,stable,Customer is engaged and reviewing next steps.,0.55,55000.0,0,Low
+D106,Maple Commerce 106,Arjun,75000,Discovery,2026-05-29,2026-09-28,2026-09-09,7,3,2,5,2,True,False,0,4,stable,Customer is engaged and reviewing next steps.,0.15,11250.0,0,Low
+D107,Quantum Security 107,Diya,250000,Demo,2026-06-20,2026-10-08,2026-09-06,7,12,1,5,4,True,False,1,3,stable,Strong meeting participation; decision process is clear.,0.3,75000.0,0,Low
+D108,Quantum Security 108,Diya,150000,Negotiation,2026-06-29,2026-10-31,2026-09-04,11,10,4,1,3,True,True,0,4,stable,Champion is active and buyer is engaged.,0.75,112500.0,0,Low
+D109,BluePeak Systems 109,Meera,100000,Negotiation,2026-06-15,2026-10-31,2026-08-12,30,3,0,1,1,True,True,2,13,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.75,75000.0,60,High
+D110,Evergreen Energy 110,Arjun,40000,Proposal,2026-06-06,2026-09-24,2026-09-01,43,3,2,1,3,False,True,2,10,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.55,22000.0,75,High
+D111,Summit Logistics 111,Ishita,250000,Demo,2026-05-29,2026-10-28,2026-08-31,37,1,0,1,2,False,False,1,13,declining,Engagement has dropped sharply compared with earlier conversations.,0.3,75000.0,55,Medium
+D112,Vertex Retail 112,Anaya,150000,Proposal,2026-05-14,2026-10-15,2026-09-08,27,6,4,4,4,True,True,0,2,stable,Customer requested a timeline for final decision.,0.55,82500.0,0,Low
+D113,Quantum Security 113,Aarav,150000,Proposal,2026-04-08,2026-09-14,2026-09-09,19,6,4,3,3,True,True,0,2,stable,Strong meeting participation; decision process is clear.,0.55,82500.0,0,Low
+D114,Cedar Health 114,Ishita,40000,Proposal,2026-05-14,2026-10-28,2026-08-21,31,1,1,2,1,False,True,3,19,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.55,22000.0,80,High
+D115,Atlas Manufacturing 115,Arjun,150000,Discovery,2026-04-13,2026-11-12,2026-09-09,8,5,4,2,4,True,False,1,3,stable,Customer is engaged and reviewing next steps.,0.15,22500.0,0,Low
+D116,Nova Telecom 116,Arjun,150000,Negotiation,2026-05-25,2026-10-06,2026-09-06,10,3,2,4,4,True,True,1,3,stable,Strong meeting participation; decision process is clear.,0.75,112500.0,0,Low
+D117,Nova Telecom 117,Meera,25000,Demo,2026-05-08,2026-10-14,2026-08-09,37,0,1,1,2,True,False,3,19,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.3,7500.0,80,High
+D118,Apex Mobility 118,Rohan,200000,Proposal,2026-06-30,2026-10-28,2026-09-08,26,12,2,5,4,True,True,1,4,stable,Customer is engaged and reviewing next steps.,0.55,110000.0,0,Low
+D119,Orion Foods 119,Meera,25000,Negotiation,2026-06-09,2026-10-17,2026-09-06,9,9,4,4,2,True,True,0,2,stable,Strong meeting participation; decision process is clear.,0.75,18750.0,0,Low
+D120,Quantum Security 120,Diya,125000,Discovery,2026-04-21,2026-09-15,2026-09-02,17,2,1,2,1,False,False,0,8,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.15,18750.0,20,Low
+D121,Silverline Media 121,Ishita,40000,Negotiation,2026-05-22,2026-10-04,2026-09-10,14,5,1,5,4,True,True,0,1,stable,Strong meeting participation; decision process is clear.,0.75,30000.0,0,Low
+D122,BluePeak Systems 122,Anaya,250000,Negotiation,2026-05-18,2026-10-07,2026-09-10,17,5,2,4,3,True,True,1,1,stable,Champion is active and buyer is engaged.,0.75,187500.0,0,Low
+D123,Northstar Analytics 123,Arjun,200000,Discovery,2026-07-26,2026-11-14,2026-08-19,30,1,1,1,2,False,False,2,8,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.15,30000.0,100,High
+D124,Summit Logistics 124,Rohan,150000,Discovery,2026-05-04,2026-10-06,2026-09-02,29,3,0,1,2,True,False,2,11,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.15,22500.0,55,Medium
+D125,Summit Logistics 125,Diya,250000,Negotiation,2026-04-20,2026-11-07,2026-09-08,11,10,4,2,4,True,True,0,2,stable,Customer is engaged and reviewing next steps.,0.75,187500.0,0,Low
+D126,Quantum Security 126,Rohan,250000,Negotiation,2026-08-04,2026-10-06,2026-09-08,16,3,3,2,2,True,True,0,1,stable,Customer is engaged and reviewing next steps.,0.75,187500.0,0,Low
+D127,Atlas Manufacturing 127,Meera,75000,Discovery,2026-05-15,2026-10-14,2026-09-04,17,3,1,1,2,False,False,0,8,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.15,11250.0,20,Low
+D128,Summit Logistics 128,Kabir,200000,Discovery,2026-06-17,2026-10-08,2026-08-28,26,0,1,0,1,False,False,1,13,declining,Engagement has dropped sharply compared with earlier conversations.,0.15,30000.0,55,Medium
+D129,Orion Foods 129,Anaya,125000,Discovery,2026-07-18,2026-09-10,2026-08-21,19,0,0,1,1,True,False,0,14,declining,Engagement has dropped sharply compared with earlier conversations.,0.15,18750.0,40,Medium
+D130,Vertex Retail 130,Arjun,250000,Discovery,2026-03-27,2026-10-07,2026-09-06,20,4,5,2,4,True,False,1,4,stable,Customer requested a timeline for final decision.,0.15,37500.0,0,Low
+D131,Evergreen Energy 131,Aarav,40000,Proposal,2026-04-02,2026-09-07,2026-08-30,24,2,1,1,1,False,True,2,10,declining,Engagement has dropped sharply compared with earlier conversations.,0.55,22000.0,55,Medium
+D132,Harbor Insurance 132,Kabir,75000,Proposal,2026-06-08,2026-10-02,2026-09-08,13,10,1,2,4,True,True,0,3,stable,Customer is engaged and reviewing next steps.,0.55,41250.0,0,Low
+D133,Silverline Media 133,Rohan,40000,Proposal,2026-07-03,2026-10-30,2026-08-14,47,0,0,2,1,True,True,2,19,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.55,22000.0,80,High
+D134,Vertex Retail 134,Kabir,40000,Negotiation,2026-08-04,2026-10-08,2026-09-07,24,7,1,5,3,True,True,0,2,stable,Champion is active and buyer is engaged.,0.75,30000.0,0,Low
+D135,Summit Logistics 135,Kabir,150000,Discovery,2026-04-10,2026-09-18,2026-09-10,4,8,1,3,2,True,False,0,3,stable,Customer requested a timeline for final decision.,0.15,22500.0,0,Low
+D136,BluePeak Systems 136,Rohan,75000,Discovery,2026-06-02,2026-10-24,2026-09-08,20,7,2,4,4,True,False,1,1,stable,Customer requested a timeline for final decision.,0.15,11250.0,0,Low
+D137,Apex Mobility 137,Meera,25000,Discovery,2026-06-12,2026-09-16,2026-09-06,6,12,4,5,2,True,False,1,3,stable,Champion is active and buyer is engaged.,0.15,3750.0,0,Low
+D138,Evergreen Energy 138,Kabir,25000,Demo,2026-08-08,2026-10-14,2026-09-02,27,6,2,2,3,False,False,2,7,declining,Expected close date has moved more than once and the customer needs additional internal approval.,0.3,7500.0,55,Medium
+D139,Northstar Analytics 139,Arjun,250000,Demo,2026-04-23,2026-11-05,2026-08-19,39,2,0,0,1,True,False,1,18,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.3,75000.0,60,High
+D140,Summit Logistics 140,Meera,150000,Demo,2026-06-19,2026-09-29,2026-09-05,17,12,5,2,4,True,False,1,2,stable,Customer requested a timeline for final decision.,0.3,45000.0,0,Low
+D141,Vertex Retail 141,Arjun,75000,Proposal,2026-06-12,2026-09-27,2026-08-20,44,1,1,1,1,False,True,2,9,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.55,41250.0,100,High
+D142,BluePeak Systems 142,Anaya,150000,Demo,2026-04-14,2026-10-17,2026-08-23,46,2,0,2,2,False,False,3,10,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.3,45000.0,100,High
+D143,Maple Commerce 143,Arjun,125000,Discovery,2026-04-02,2026-10-23,2026-09-10,20,8,5,5,2,True,False,0,1,stable,Customer requested a timeline for final decision.,0.15,18750.0,0,Low
+D144,Summit Logistics 144,Ishita,75000,Discovery,2026-05-02,2026-11-10,2026-09-05,22,5,2,1,1,False,False,1,8,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.15,11250.0,40,Medium
+D145,Apex Mobility 145,Aarav,200000,Demo,2026-04-16,2026-09-22,2026-09-07,18,7,4,1,2,True,False,0,1,stable,Champion is active and buyer is engaged.,0.3,60000.0,0,Low
+D146,Cedar Health 146,Arjun,250000,Negotiation,2026-04-16,2026-10-09,2026-08-24,54,2,0,2,1,False,True,1,14,declining,Customer has gone quiet; follow-up attempts have not received a response.,0.75,187500.0,80,High
+D147,BluePeak Systems 147,Kabir,150000,Negotiation,2026-05-21,2026-11-03,2026-09-04,12,7,1,1,2,True,True,1,4,stable,Customer is engaged and reviewing next steps.,0.75,112500.0,0,Low
+D148,BluePeak Systems 148,Meera,150000,Demo,2026-04-13,2026-10-22,2026-09-04,14,7,3,3,4,True,False,0,1,stable,Champion is active and buyer is engaged.,0.3,45000.0,0,Low
+D149,Vertex Retail 149,Aarav,40000,Proposal,2026-08-12,2026-09-30,2026-09-04,16,5,3,5,2,True,True,0,1,stable,Strong meeting participation; decision process is clear.,0.55,22000.0,0,Low
+D150,Silverline Media 150,Kabir,40000,Negotiation,2026-06-20,2026-11-06,2026-09-04,37,2,2,1,2,False,True,1,9,stable,"Champion is engaged, but the economic buyer has not joined the process.",0.75,30000.0,40,Medium
